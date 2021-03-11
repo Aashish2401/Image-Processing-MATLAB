@@ -1,0 +1,2 @@
+Change the path to the image files in both the codes to the path on your computer to run the code properly.
+The output images and graphs have been attached in their respective folders.
